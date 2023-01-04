@@ -1,0 +1,231 @@
+#root {
+/* max-width: 1280px; */
+margin: 0 auto;
+padding: 2rem;
+text-align: center;
+
+/* position: absolute; */
+width: 550px;
+height: 868px;
+left: 664px;
+top: 53px;
+
+background: #23252C;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* .card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.photo-img{
+position: absolute;
+width: 317px;
+height: 317px;
+left: 116px;
+top: 44px;
+
+background: url(.png);
+border-radius: 10px 10px 0px 0px;
+
+} */
+
+/* .name{
+position: absolute;
+width: 190px;
+height: 25.81px;
+left: 186px;
+top: 382px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+} */
+
+/* .developer{
+position: absolute;
+width: 228px;
+height: 16px;
+left: 161px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+text-align: center;
+
+color: #F5F5F5;
+} */
+
+/* .btn{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+gap: 8px;
+
+position: absolute;
+width: 115px;
+height: 34px;
+left: 283px;
+top: 468px;
+
+background: #5093E2;
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+
+} */
+
+
+
+/* .text{
+
+
+width: 57px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+} */
+
+/* .icon{
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #FFFFFF;
+} */
+
+/* .App{
+position: absolute;
+width: 317px;
+height: 317px;
+left: 116px;
+top: 44px;
+
+background: url(.png);
+border-radius: 10px 10px 0px 0px;
+} */
+
+/* .emailbtn{
+box-sizing: border-box;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 13px 9px 11px;
+gap: 8px;
+
+position: absolute;
+width: 115px;
+height: 34px;
+left: 151px;
+top: 469px;
+
+
+background: #FFFFFF;
+
+border: 1px solid #D1D5DB;
+
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+} */
+
+/* .emailtext{
+  
+width: 36px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #374151;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+} */
+
+/* .emailicon{
+position: absolute;
+left: 10%;
+right: 10%;
+top: 20%;
+bottom: 20%;
+
+background: #1E1F26;
+} */
+
+.btn{
+  background-color: rgba(0, 195, 255, 0.596);
+  height: 49px;
+  width: 135px;
+}
+
+.emailbtn{
+  background-color: beige;
+  color: black;
+  height: 49px;
+  width: 135px;
+}
+
+.foot{
+  background-color: #171916;
+}
